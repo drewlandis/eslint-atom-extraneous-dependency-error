@@ -6,7 +6,7 @@ This repo to serve as a test bed for checking if the atom plugin [linter-eslint]
   1. `npm i`
   1. `npm run lint`
     * This should verify that the eslint node module is finding no errors.
-  1. Open `test/subFolder/validate.js`
+  1. open `test/subFolder/validate.js` using Atom
     * This shows that the atom eslint plugin is throwing an `import/no-extraneous-dependencies` error.
 
 # my setup
